@@ -1,0 +1,5 @@
+npm i mongoose express babel-cli babel-preset-env babel-preset-stage-0
+
+npm i --save-dev morgan nodemon
+
+npm i cors
